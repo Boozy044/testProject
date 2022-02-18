@@ -1,24 +1,6 @@
-# trost
+# frontend на Vue js
 
-## Project setup
-```
-npm install
-```
+1. Реализовал графики, так как моло знаком с фрейм ворком Laravel, не смог качественно передать данные (использовал заглушки)
+2. Так же реализована таблица с возможностью поиска, сортировки по столбцам, и погинацией.
+3. Данные приходят по средствам API, все интерфейсы так же реализованы
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
